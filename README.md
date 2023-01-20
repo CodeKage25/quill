@@ -3,16 +3,18 @@
 Quill is a blogging platform that allows users to create and share their thoughts and ideas with the world. The app is designed to be user-friendly and offers a variety of customization options for users to create a unique and personalized blogging experience.
 
 ## Features
-- Create and publish blog posts
-- Customize the appearance of your blog, including adding your own logo and background image.
-- Add images, videos and other multimedia to your posts
-- Share your posts on social media
-- View statistics on your blog's performance such as page views, likes, and comments
-- Collaborate with other bloggers
-- Schedule posts for later
-- Multiple languages support
-- Option to contribute to the development of the app
-- Easy access to support and guidelines on how to use the platform
+- User-friendly and intuitive interface
+- Customizable blog design, including the ability to add a personal logo and background image
+- Ability to create and publish blog posts
+- Multimedia integration, including the ability to add images, videos, and other multimedia to posts
+- Social media sharing capabilities
+- Analytics and statistics on blog performance, such as page views, likes, and comments
+- Collaboration with other bloggers
+- Scheduling feature to schedule post for later
+- Ability to Delete post
+- Multi-language support
+- Support and guidelines for using the platform
+- Option for users to contribute to the development of the platform.
 
 # Getting Started
 
