@@ -59,4 +59,4 @@ By using Quill, you agree to our Terms of Service and Privacy Policy. These can 
 
 ## Conclusion
 
-Quill is a great way to share your thoughts and ideas with the world. Whether you're a professional blogger or just looking to share your personal musings, NodeJournal is the perfect platform for you. With a variety of customization options and easy-to-use features, you'll be able to create a blog that truly reflects your unique voice.
+Quill is a great way to share your thoughts and ideas with the world. Whether you're a professional blogger or just looking to share your personal musings, Quill is the perfect platform for you. With a variety of customization options and easy-to-use features, you'll be able to create a blog that truly reflects your unique voice.
