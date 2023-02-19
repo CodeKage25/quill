@@ -3,6 +3,7 @@
 Quill is a blogging platform that allows users to create and share their thoughts and ideas with the world. The app is designed to be user-friendly and offers a variety of customization options for users to create a unique and personalized blogging experience.
 
 ## Features
+
 - User-friendly and intuitive interface
 - Customizable blog design, including the ability to add a personal logo and background image
 - Ability to create and publish blog posts
@@ -50,6 +51,7 @@ If you have any issues or need help using the app, please visit our support page
 If you are interested in contributing to the development of Blogging Platform, please visit our GitHub repository and review our contribution guidelines.
 
 ## License
+
 Quill is released under the MIT License. See LICENSE for more details.
 
 ## Terms of Use
@@ -58,4 +60,4 @@ By using Quill, you agree to our Terms of Service and Privacy Policy. These can 
 
 ## Conclusion
 
-Quill is a great way to share your thoughts and ideas with the world. Whether you're a professional blogger or just looking to share your personal musings, NodeJournal is the perfect platform for you. With a variety of customization options and easy-to-use features, you'll be able to create a blog that truly reflects your unique voice.
+Quill is a great way to share your thoughts and ideas with the world. Whether you're a professional blogger or just looking to share your personal musings, Quill is the perfect platform for you. With a variety of customization options and easy-to-use features, you'll be able to create a blog that truly reflects your unique voice.
