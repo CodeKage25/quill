@@ -23,7 +23,7 @@ Welcome to Quill, a powerful and user-friendly blogging platform that allows you
 
 ## Signing Up
 
-The first step to getting started with NodeJournal is to create an account. You can sign up for a new account by downloading the NodeJournal app from the App Store or Google Play and following the on-screen instructions.
+The first step to getting started with NodeJournal is to create an account. You can sign up for a new account by downloading the Quill app from the App Store or Google Play and following the on-screen instructions.
 
 If you already have an account, simply sign in with your existing credentials.
 
@@ -31,12 +31,13 @@ If you already have an account, simply sign in with your existing credentials.
 
 Once you've signed up for an account, you can start creating and publishing your blog posts. To create a new post, simply tap the "New Post" button in the main menu and start writing. You can add text, images, videos, and other multimedia to your post to make it more engaging.
 
-Customizing Your Blog
-NodeJournal offers a variety of customization options to help you create a unique and personalized blog. You can change the appearance of your blog by adding your own logo and background image, and you can also choose from a range of pre-designed templates.
+## Customizing Your Blog
+
+Quill offers a variety of customization options to help you create a unique and personalized blog. You can change the appearance of your blog by adding your own logo and background image, and you can also choose from a range of pre-designed templates.
 
 ## Sharing and Analytics
 
-NodeJournal also allows you to share your posts on social media and view statistics on your blog's performance such as page views, likes, and comments.
+Quill also allows you to share your posts on social media and view statistics on your blog's performance such as page views, likes, and comments.
 
 ## Collaboration and Scheduling
 
